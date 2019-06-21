@@ -1,6 +1,7 @@
 ## Startup Landing Page
 #An online animal dating site -
 Basic Startup Landing Page Web Application
+Live Demo - https://charlesngeru.github.io/LandingPage/
 
 ## Motivation
 I made this project while I was learning Bootstrap, and the use of font-awesome icons. Its an awesome startup landing page
